@@ -1,0 +1,128 @@
+description: !!python/unicode 'Hack Reactor wants to turn you into a software engineer
+  by teaching you CS
+
+  fundamentals, full-stack JavaScript and engineering best practices. Through
+
+  lectures, toy problems and large projects, students learn cutting edge
+
+  technologies, and become adept at teaching themselves new languages, libraries
+
+  and frameworks. Students pair program for much of the course, allowing them to
+
+  learn from one another and fostering crucial communication skills. There are
+
+  also fun activities that happen in the evening like meetups and guest
+
+  speakers.
+
+
+  At a macro level, you will spend the first six weeks learning basic skills and
+
+  learning the mindset of engineers. The next six weeks are devoted to
+
+  completing a personal project, a short group project and a large group
+
+  project, giving you experience programming like you would at a developer job.
+
+  At the end of the program, there is a demo day to show off your projects to
+
+  potential employers.
+
+
+  While a coding background isn''t a requirement, requires you to complete an
+
+  admissions coding challenge and a technical interview.
+
+
+  '
+display_name: LambdaSchool
+founded_year: 2016
+meta-description: LambdaSchool reviews for remote programs. Find
+  out about LambdaSchool cost, acceptance, and curriculum.
+primary_email: ben@lambdaschool.com
+programs:
+  part-time:
+    admissions: Application, interview
+    cities:
+    - remote
+    commitment: part-time
+    cost_description: $4000
+    description: "LambdaSchool\u2019s 13 week part-time online web development course\
+      \ covers\nfull-stack software development.  You will study CS fundamentals\
+      \ such as\ndata structures and algorithms as well as widely used web development\
+      \ technologies.\nThese include: Sass, React, Redux, Node/Express, databases,\
+      \ security,\nan intro to mobile development with React Native and an intro to\
+      \ machine learning\n with brain.js. LambdaSchool also provides career support\
+      \ after graduation\nin the form of interview prep, resume review, salary negotiation,\
+      \ and portfolio\ndevelopment. Class sizes are limited to 10 people. Lectures are always\
+      \ given live.\nYou will put in over 250 hours of learning and development.\n\n"
+    display_name: Part-Time Online
+    duration: 13
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - javascript
+    - html
+    - css
+    - sass
+    - react
+    - node-js
+    - algorithms
+    - authentication
+    - agile-methodologies
+    - testing
+    - mongodb
+    - mysql
+    - rest
+    - apis
+    tuition: 4000
+    tuition_units: USD $
+  full-time:
+    admissions: Application, interview
+    cities:
+    - remote
+    commitment: full-time
+    cost_description: $7000
+    description: "LambdaSchool\u2019s 13 week full-time online web development course\
+      \ covers\nfull-stack software development.  You will study CS fundamentals\
+      \ such as\ndata structures and algorithms as well as widely used web development\
+      \ technologies.\nThese include: Sass, React, Redux, Node/Express, databases,\
+      \ security,\nan intro to mobile development with React Native and an intro to\
+      \ machine learning\n with brain.js. LambdaSchool also provides career support\
+      \ after graduation\nin the form of interview prep, resume review, salary negotiation,\
+      \ and portfolio\ndevelopment. Class sizes are limited to 10 people. Lectures are always\
+      \ given live.\nYou will put in over 800 hours of learning and development.\n\n"
+    display_name: Full-Time Online
+    duration: 13
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - javascript
+    - html
+    - css
+    - sass
+    - react
+    - node-js
+    - algorithms
+    - authentication
+    - agile-methodologies
+    - testing
+    - mongodb
+    - mysql
+    - rest
+    - apis
+    tuition: 7000
+    tuition_units: USD $
+tagline: The Ultimate Online Code Bootcamp
+twitter: LambdaSchool
+website: https://www.lambdaschool.com
